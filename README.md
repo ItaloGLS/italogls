@@ -1,14 +1,14 @@
 ## 💜 Olá, meu nome é <strong>Italo!</strong>
 
-> Olá! Meu nome é Italo e sou um desenvolvedor web de 14 anos, atualmente estudante do Instituto Federal de Pernambuco. Com um amor pela tecnologia desde uma idade precoce, comecei a explorar o mundo da programação e desenvolvimento web por conta própria, e rapidamente descobri minha paixão por criar coisas incríveis na internet.
+> Sou um desenvolvedor web de 14 anos, atualmente estudante do **Instituto Federal de Pernambuco**. Com um amor pela tecnologia desde uma idade precoce, comecei a explorar o mundo da programação e Desenvolvimento web por conta própria, e rapidamente descobri minha paixão por criar coisas incríveis na internet.
 >
-> Sempre curioso e em busca de aprendizado, dedico meu tempo livre para melhorar minhas habilidades em linguagens como HTML, CSS e JavaScript, bem como em frameworks populares como Boostrap e etc. Além disso, estou sempre ansioso para aprender sobre novas tecnologias e tendências, e como elas podem ser aplicadas em projetos de desenvolvimento web.
+> Sempre curioso e em busca de aprendizado, dedico meu tempo livre para melhorar minhas habilidades em linguagens como HTML, CSS e JavaScript, bem como em frameworks populares como Boostrap e etc. Além disso, estou sempre ansioso para aprender sobre novas tecnologias e tendências, e como elas podem ser aplicadas em projetos reais :D
 >
 >Como estudante no Instituto Federal de Pernambuco, estou empenhado em continuar crescendo como desenvolvedor e me preparando para uma carreira promissora na indústria de tecnologia. Estou animado com as oportunidades que o futuro me reserva e mal posso esperar para ver onde minha jornada como desenvolvedor web me levará.
 
 🔭 Atualmente estou desenvolvendo um projeto Front-end de um site do banco Neon.
 
-💬 Se você está procurando um desenvolvedor web apaixonado e dedicado, você veio ao lugar certo! Fique à vontade para entrar em contato comigo para discutir qualquer ideia de projeto ou se tiver alguma dúvida sobre minhas habilidades ou experiência. Estou sempre aberto para colaborações e novas oportunidades emocionantes. Vamos conversar!
+💬 Fique à vontade para entrar em contato comigo para discutir qualquer ideia de projeto ou se tiver alguma dúvida sobre minhas habilidades ou experiência. Estou sempre aberto para colaborações e novas oportunidades emocionantes. Vamos conversar!
 
 ----
 
