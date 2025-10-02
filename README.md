@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Italo!</strong>
 
-> Sou um desenvolvedor web de 16 anos, atualmente estudante do **Instituto Federal de Pernambuco**. Com um amor pela tecnologia desde uma idade precoce, comecei a explorar o mundo da programação e Desenvolvimento web por conta própria, e rapidamente descobri minha paixão por criar coisas incríveis na internet.
+> Sou um desenvolvedor web de 17 anos, atualmente estudante do **Instituto Federal de Pernambuco**. Com um amor pela tecnologia desde uma idade precoce, comecei a explorar o mundo da programação e Desenvolvimento web por conta própria, e rapidamente descobri minha paixão por criar coisas incríveis na internet.
 >
 > Sempre curioso e em busca de aprendizado, dedico meu tempo livre para melhorar minhas habilidades em linguagens como HTML, CSS e JavaScript, bem como em frameworks populares como Boostrap e etc. Além disso, estou sempre ansioso para aprender sobre novas tecnologias e tendências, e como elas podem ser aplicadas em projetos reais :D
 >
