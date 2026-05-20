@@ -1,4 +1,4 @@
-# 💜 Olá, meu nome é **Italo!**
+# Olá, meu nome é **Italo!**
 
 > Sou um desenvolvedor web de 17 anos, atualmente estudante do **Instituto Federal de Pernambuco**. Com um amor pela tecnologia desde uma idade precoce, comecei a explorar o mundo da programação e Desenvolvimento web por conta própria, e rapidamente descobri minha paixão por criar coisas incríveis na internet.
 >
