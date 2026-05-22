@@ -30,6 +30,7 @@
 
 <div align="center">
 <h2>🚀 Minhas Habilidades</h2>
+<h2> </h2>
   <table>
   </table>
   <table width="100%">
