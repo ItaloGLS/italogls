@@ -67,18 +67,6 @@
 <h2>⭐ Estatísticas do GitHub</h2>
     
 
-  <table width="100%">
-    <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=ItaloGLS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="ItaloGLS GitHub Stats" />
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloGLS&layout=compact&theme=dracula" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-    
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloGLS&theme=dracula" alt="GitHub Streak" />
     
 
