@@ -68,19 +68,17 @@
     
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloGLS&theme=dracula" alt="GitHub Streak" />
     
-
+<br>
     
 
   <img src="https://github-profile-trophy.vercel.app/?username=ItaloGLS&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
 
-<br>
 
 
 
 
 <div align="center">
-  <br>
 <h3>💬 Vamos nos conectar?</h3>
   <p>Estou sempre aberto a novas colaborações e oportunidades. Sinta-se à vontade para entrar em contato!</p>
   <p>
