@@ -71,8 +71,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
     
 
   <img src="https://github-profile-trophy.vercel.app/?username=ItaloGLS&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
