@@ -29,8 +29,7 @@
 
 
 <div align="center">
-<h2>🚀 Minhas Habilidades</h2>
-<br>
+<h2>🚀 Minhas Habilidades   <br></h2>
   <table width="100%">
     <tr>
       <td width="33%" valign="top">
