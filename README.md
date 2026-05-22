@@ -66,7 +66,6 @@
 <div align="center">
 <h3>⭐ Estatísticas do GitHub</h3>
     
-<br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloGLS&theme=dracula" alt="GitHub Streak" />
     
 
@@ -74,6 +73,8 @@
 
   <img src="https://github-profile-trophy.vercel.app/?username=ItaloGLS&theme=dracula&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </div>
+
+<br>
 
 
 
