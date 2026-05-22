@@ -80,6 +80,7 @@
 
 
 <div align="center">
+  <br>
 <h3>💬 Vamos nos conectar?</h3>
   <p>Estou sempre aberto a novas colaborações e oportunidades. Sinta-se à vontade para entrar em contato!</p>
   <p>
