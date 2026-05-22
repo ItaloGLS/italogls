@@ -64,7 +64,7 @@
 
 
 <div align="center">
-<h2>⭐ Estatísticas do GitHub</h2>
+<h3>⭐ Estatísticas do GitHub</h3>
     
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItaloGLS&theme=dracula" alt="GitHub Streak" />
@@ -79,7 +79,7 @@
 
 
 <div align="center">
-<h2>💬 Vamos nos conectar?</h2>
+<h3>💬 Vamos nos conectar?</h3>
   <p>Estou sempre aberto a novas colaborações e oportunidades. Sinta-se à vontade para entrar em contato!</p>
   <p>
     <a href="https://www.linkedin.com/in/italoglimaa/" target="_blank">
