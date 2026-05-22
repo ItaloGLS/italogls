@@ -94,7 +94,7 @@
 <h2>💬 Vamos nos conectar?</h2>
   <p>Estou sempre aberto a novas colaborações e oportunidades. Sinta-se à vontade para entrar em contato!</p>
   <p>
-    <a href="https://www.linkedin.com/in/taloglimaa/" target="_blank">
+    <a href="https://www.linkedin.com/in/italoglimaa/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:italobielplayer@gmail.com">
