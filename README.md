@@ -12,7 +12,7 @@
       <div align="center">
         <h2>Sobre Mim</h2>
         <p>
-          Sou um desenvolvedor web de 17 anos, atualmente estudante no <b>Instituto Federal de Pernambuco</b>. Desde cedo, fui cativado pelo mundo da tecnologia e da programação, descobrindo rapidamente minha paixão por construir soluções inovadoras na internet. Minha jornada tem sido focada em aprimorar minhas habilidades em <b>HTML, CSS, JavaScript</b>, e frameworks modernos como <b>React</b> e <b>Tailwind CSS</b>. Estou sempre em busca de novos conhecimentos e tendências, ansioso para aplicá-los em projetos desafiadores.
+          Sou um desenvolvedor web de 18 anos, atualmente estudante no <b>Instituto Federal de Pernambuco</b>. Desde cedo, fui cativado pelo mundo da tecnologia e da programação, descobrindo rapidamente minha paixão por construir soluções inovadoras na internet. Minha jornada tem sido focada em aprimorar minhas habilidades em <b>HTML, CSS, JavaScript</b>, e frameworks modernos como <b>React</b> e <b>Tailwind CSS</b>. Estou sempre em busca de novos conhecimentos e tendências, ansioso para aplicá-los em projetos desafiadores.
         </p>
       </div>
     </td>
